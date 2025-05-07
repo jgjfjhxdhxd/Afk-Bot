@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "RedSphinx122993.aternos.me",
+    "port":61251,
     "version": "1.19.3"
   },
 
